@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c1b61cf888d6c1e49882b20e4df1c2da
+timeCreated: 1519498403
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EAST-west Expanded
+  fontNames:
+  - EAST-west Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

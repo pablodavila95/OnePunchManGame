@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e39ab56b2de402d4dba38b4d334b2c80
+timeCreated: 1519498403
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EAST-west Laser
+  fontNames:
+  - EAST-west Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

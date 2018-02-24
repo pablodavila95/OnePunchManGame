@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f47c614e40fef564ab93c4ed428a3654
+timeCreated: 1519498404
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EAST-west Gradient Italic
+  fontNames:
+  - EAST-west Gradient Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
